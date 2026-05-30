@@ -1,4 +1,4 @@
-# Voila le code source de l'application:
+# le code source de l'application:
 https://github.com/elhajchaymae/J2EE_soutenance_app.git
 
 # ENSAH - Système de Gestion des Soutenances
