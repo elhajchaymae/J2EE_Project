@@ -1,3 +1,6 @@
+# Voila le code source de l'application:
+https://github.com/elhajchaymae/J2EE_soutenance_app.git
+
 # ENSAH - Système de Gestion des Soutenances
 
 Application pour la planification automatique des soutenances de stage à l'ENSAH (École Nationale des Sciences Appliquées d'Al-Hoceima).
