@@ -1,6 +1,6 @@
 # ENSAH - Système de Gestion des Soutenances
 
-Application Spring Boot complète pour la planification automatique des soutenances de stage à l'ENSAH (École Nationale des Sciences Appliquées d'Al-Hoceima).
+Application pour la planification automatique des soutenances de stage à l'ENSAH (École Nationale des Sciences Appliquées d'Al-Hoceima).
 
 ## 🚀 Démarrage rapide
 
@@ -13,7 +13,6 @@ Application Spring Boot complète pour la planification automatique des soutenan
 cd soutenance-app
 mvn spring-boot:run
 ```
-Puis ouvrir : http://localhost:8080
 
 ---
 
